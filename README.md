@@ -438,11 +438,13 @@ Possible contribution areas include:
 
 ---
 
-# 📜 License
+## 📜 License
 
-Add an appropriate open-source license before publishing the repository publicly.
+This project is licensed under the MIT License.
 
----
+Copyright (c) 2026 Meet Kadiya
+
+See the [LICENSE](LICENSE) file for the complete license text.
 
 ## 👨‍💻 Author
 
